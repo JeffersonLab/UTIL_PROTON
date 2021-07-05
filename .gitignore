@@ -7,7 +7,9 @@
 *.png
 *.pdf
 *.nfs*
+*.root
 OUTPUT
+OUTPUT_Old
 
 ROOTfiles*
 HISTOGRAMS/

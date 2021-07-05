@@ -1,0 +1,58 @@
+#################################
+Processing all kinematic settings
+#################################
+#########################################
+### Processing kinematic Q0p5W2p40center_highe ###
+#########################################
+Scaler or replayfile not found for run 6898 in /group/c-kaonlt/USERS/sjdkay/hallc_replay_lt/UTIL_PROTON/ROOTfilesProton/
+Running as sjdkay
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Run number read from file: 6898
+
+Raw .dat file is 42 GB
+Job 1/2
+Running sjdkay_Job.txt for 6898
+Submitting batch
+Your Scientific Computing certificate is expired now.
+Please run the command '/site/bin/jcert -replace' to get a new certificate.
+ 
+#################################
+Processing all kinematic settings
+#################################
+#########################################
+### Processing kinematic Q0p5W2p40center_highe ###
+#########################################
+Scaler or replayfile not found for run 6898 in /group/c-kaonlt/USERS/sjdkay/hallc_replay_lt/UTIL_PROTON/ROOTfilesProton/
+Running as sjdkay
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Run number read from file: 6898
+
+Raw .dat file is 42 GB
+Job 1/2
+Running sjdkay_Job.txt for 6898
+Submitting batch
+Parsing script ... (it may take while)
+This job will appear in the output of slurmJobs command in a few minutes.
+<jsub><request><index>6699829</index><jobIndex>18849219</jobIndex></request></jsub>
+ 
+6898 has an AugerID of 
+#########################################
+### Processing kinematic Q0p5W2p40center_lowe ###
+#########################################
+All replay files and analysed files present - processing
+ROOT 6.18.04 was compiled with gcc 4.8.5
+present default gcc is given by gcc -v: 
+hadd Target file: Q0p5W2p40center_lowe.root
+hadd compression setting for all output: 1
+Proton plots already found in - /group/c-kaonlt/USERS/sjdkay/hallc_replay_lt/UTIL_PROTON/scripts/protonyield/OUTPUT/Q2p115W2p95left_lowe_Protons.root and .pdf - Plotting macro skipped
+#########################################
+### Processing kinematic Q0p5W2p40left_highe ###
+#########################################
+All replay files and analysed files present - processing
+ROOT 6.18.04 was compiled with gcc 4.8.5
+present default gcc is given by gcc -v: 
+Proton analysis not found for run 6925 in /group/c-kaonlt/USERS/sjdkay/hallc_replay_lt/UTIL_PROTON/scripts/protonyield/OUTPUT/
+Processing proton analysis for run 6925
+Starting analysis of Proton events
+I take as arguments the run Number and max number of events!
+Running as sjdkay on ifarm1802.jlab.org, hallc_replay_lt path assumed as /group/c-kaonlt/USERS/sjdkay/hallc_replay_lt
